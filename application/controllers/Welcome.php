@@ -18,7 +18,7 @@ class Welcome extends CI_Controller {
 	}
 
 
-    //add book
+    //add book//
 	public function add()
 	{
 		$this->load->view('V_add_book');
